@@ -1,0 +1,6 @@
+c:\users\sbuh\documents\visual studio 2015\Projects\conversion\conversion\bin\Debug\conversion.exe.config
+c:\users\sbuh\documents\visual studio 2015\Projects\conversion\conversion\bin\Debug\conversion.exe
+c:\users\sbuh\documents\visual studio 2015\Projects\conversion\conversion\bin\Debug\conversion.pdb
+c:\users\sbuh\documents\visual studio 2015\Projects\conversion\conversion\obj\Debug\conversion.exe
+c:\users\sbuh\documents\visual studio 2015\Projects\conversion\conversion\obj\Debug\conversion.pdb
+c:\users\sbuh\documents\visual studio 2015\Projects\conversion\conversion\obj\Debug\conversion.csprojResolveAssemblyReference.cache
